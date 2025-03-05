@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>joelli</title>
+    <link rel="self" type="application/atom+xml" href="https://joelli.gay/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://joelli.gay"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2019-10-05T00:00:00+00:00</updated>
+    <id>https://joelli.gay/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Personal journal</title>
+        <published>2019-10-05T00:00:00+00:00</published>
+        <updated>2019-10-05T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://joelli.gay/journal/"/>
+        <id>https://joelli.gay/journal/</id>
+        
+        <content type="html" xml:base="https://joelli.gay/journal/">&lt;p&gt;nothing here… yet :3&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
